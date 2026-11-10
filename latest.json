@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "version": "2026.10.29.1",
-  "file": "bundles/beats-map-2026.10.29.1.zip",
-  "sha256": "d00ff5bd78667b249eb39646d0c7b1a89d2aab6deae479e7532c8a72882d11e6",
-  "size": 251838,
-  "created": "2026-10-29T12:55:02Z",
+  "version": "2026.11.10.1",
+  "file": "bundles/beats-map-2026.11.10.1.zip",
+  "sha256": "255f379c8ee04fcb560a19ddd91b05c56104dfba4e9e0b6b50995a73f1108eb5",
+  "size": 357364,
+  "created": "2026-11-10T14:04:55Z",
   "min_agent_version": null,
-  "latest_agent_version": "0.1.9",
-  "notes": "First published map: 13 tables, 35 joins"
+  "latest_agent_version": "0.1.13",
+  "notes": "6 new maps (cart, buyer history, app funnel, RM demand, stock blocking, requirement flow), updated sales and meetings maps, 16 new joins"
 }
