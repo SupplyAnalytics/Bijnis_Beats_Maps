@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "version": "2026.11.10.2",
-  "file": "bundles/beats-map-2026.11.10.2.zip",
-  "sha256": "e2712c740442f59e9e366d35f1603678ed898413c9667a9fa485b71b2f2cb6d4",
-  "size": 356740,
-  "created": "2026-11-10T15:14:31Z",
+  "version": "2026.11.11.1",
+  "file": "bundles/beats-map-2026.11.11.1.zip",
+  "sha256": "cf019c305977dd9eab4db0c4baf529ac9288a74b9c82f736a5b7a4384917ecd3",
+  "size": 357271,
+  "created": "2026-11-11T17:52:15Z",
   "min_agent_version": null,
-  "latest_agent_version": "0.1.14",
-  "notes": "Corrected after live Trino tests: cart table path, buyer history has one row per buyer (no dt filter), funnel date filters; 153 vetted queries verified"
+  "latest_agent_version": "0.1.15",
+  "notes": "req flow and keywords are SQL tables (not beats_read_sheet); darkstore_category_status template; clearer redirects"
 }
