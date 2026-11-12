@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "version": "2026.11.11.1",
-  "file": "bundles/beats-map-2026.11.11.1.zip",
-  "sha256": "cf019c305977dd9eab4db0c4baf529ac9288a74b9c82f736a5b7a4384917ecd3",
-  "size": 357271,
-  "created": "2026-11-11T17:52:15Z",
+  "version": "2026.11.12.1",
+  "file": "bundles/beats-map-2026.11.12.1.zip",
+  "sha256": "d6d70103c340d4bf98059a6c3bca2a8aab7e76027670ef14101b9556d9e2e870",
+  "size": 357106,
+  "created": "2026-11-12T07:35:28Z",
   "min_agent_version": null,
-  "latest_agent_version": "0.1.15",
-  "notes": "req flow and keywords are SQL tables (not beats_read_sheet); darkstore_category_status template; clearer redirects"
+  "latest_agent_version": "0.1.16",
+  "notes": "fix 40 older templates that never ran live (varchar dt, wrong column names, placeholders); req flow SQL-table fix"
 }
