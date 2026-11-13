@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "version": "2026.11.12.1",
-  "file": "bundles/beats-map-2026.11.12.1.zip",
-  "sha256": "d6d70103c340d4bf98059a6c3bca2a8aab7e76027670ef14101b9556d9e2e870",
-  "size": 357106,
-  "created": "2026-11-12T07:35:28Z",
-  "min_agent_version": null,
-  "latest_agent_version": "0.1.16",
-  "notes": "fix 40 older templates that never ran live (varchar dt, wrong column names, placeholders); req flow SQL-table fix"
+  "version": "2026.11.13.1",
+  "file": "bundles/beats-map-2026.11.13.1.zip",
+  "sha256": "0d95399b94cf36122ccf5a16ed0783efc39aa5b1336fe23316fd5ee8703879fe",
+  "size": 360431,
+  "created": "2026-11-13T05:43:11Z",
+  "min_agent_version": "0.1.17",
+  "latest_agent_version": "0.1.17",
+  "notes": "metric ownership (one owner map per shared metric), updated finance, sale register and P&L maps, goal sheet refresh"
 }
