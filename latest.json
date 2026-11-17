@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "version": "2026.11.13.1",
-  "file": "bundles/beats-map-2026.11.13.1.zip",
-  "sha256": "0d95399b94cf36122ccf5a16ed0783efc39aa5b1336fe23316fd5ee8703879fe",
-  "size": 360431,
-  "created": "2026-11-13T05:43:11Z",
-  "min_agent_version": "0.1.17",
-  "latest_agent_version": "0.1.17",
-  "notes": "metric ownership (one owner map per shared metric), updated finance, sale register and P&L maps, goal sheet refresh"
+  "version": "2026.11.17.1",
+  "file": "bundles/beats-map-2026.11.17.1.zip",
+  "sha256": "d574262f6e05c9899f103d13239603fae4528924a957db12d98b01a2d31198c7",
+  "size": 390384,
+  "created": "2026-11-17T07:31:03Z",
+  "min_agent_version": null,
+  "latest_agent_version": "0.1.21",
+  "notes": "two new finance maps: dispute settlements (dipute_base_data) and refund to wallet (finance_refund_to_wallet), with joins on skorderid"
 }
