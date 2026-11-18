@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "version": "2026.11.17.1",
-  "file": "bundles/beats-map-2026.11.17.1.zip",
-  "sha256": "d574262f6e05c9899f103d13239603fae4528924a957db12d98b01a2d31198c7",
-  "size": 390384,
-  "created": "2026-11-17T07:31:03Z",
+  "version": "2026.11.18.1",
+  "file": "bundles/beats-map-2026.11.18.1.zip",
+  "sha256": "c9e573a92899344f47bb288edbb720406dd82c6a9b25063b2722fed5b34dad30",
+  "size": 409153,
+  "created": "2026-11-18T10:55:33Z",
   "min_agent_version": null,
-  "latest_agent_version": "0.1.21",
-  "notes": "two new finance maps: dispute settlements (dipute_base_data) and refund to wallet (finance_refund_to_wallet), with joins on skorderid"
+  "latest_agent_version": "0.1.22",
+  "notes": "standardised all table maps (ids, partitions, routing, ownership); new maps: variant_size_wise_sm_lead_base and bijnis_express_inventory_base; 4 SM/lead joins"
 }
