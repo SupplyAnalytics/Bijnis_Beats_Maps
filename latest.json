@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "version": "2026.11.18.1",
-  "file": "bundles/beats-map-2026.11.18.1.zip",
-  "sha256": "c9e573a92899344f47bb288edbb720406dd82c6a9b25063b2722fed5b34dad30",
-  "size": 409153,
-  "created": "2026-11-18T10:55:33Z",
+  "version": "2026.11.18.2",
+  "file": "bundles/beats-map-2026.11.18.2.zip",
+  "sha256": "edf731865230149413e61a76c35022b1e4c3fd26b39c424ae8aa13578d2ec5e9",
+  "size": 409101,
+  "created": "2026-11-18T11:44:29Z",
   "min_agent_version": null,
   "latest_agent_version": "0.1.22",
-  "notes": "standardised all table maps (ids, partitions, routing, ownership); new maps: variant_size_wise_sm_lead_base and bijnis_express_inventory_base; 4 SM/lead joins"
+  "notes": "SM/lead map: table path adhoc.analytics.variant_size_wise_sm_lead_base confirmed on Trino"
 }
